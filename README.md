@@ -1,16 +1,19 @@
-### Hi there 👋
+<h3 align="center">:wave: Hello world! I'm Anthony Sukadil</h3>
+<p align="center">
+  <a href="https://www.anthonysukadil.com">Website</a> -
+  <a href="https://www.linkedin.com/in/anthony-sukadil-b27787152/">LinkedIn</a>
+</p>
 
-<!--
-**vorpal56/vorpal56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+:sparkles: I'm a fullstack developer based in Ontario Canada, currently learning more about Angular and JavaScript. I like building side projects for the games I play such as the [LeagueTheoryCrafter](https://github.com/vorpal56/league-theory-crafter) for League of Legends which allows users to theory craft builds using items, runes, ability leveling, and see their damage outputs.
 
-Here are some ideas to get you started:
+I'm a fast learner who believes in agile software development, team work and clean code. I'm eager to explore new technologies and I'm able and willing to think outside the box.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<summary>More about my coding life</summary>
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=vorpal56&theme=material-palenight&show_icons=true&hide=prs,issues,contribs)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vorpal56&layout=compact&hide=css,html)
+
+</details>
