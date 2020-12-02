@@ -15,6 +15,6 @@ I'm a fast learner who believes in agile software development, team work and cle
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vorpal56&layout=compact&hide=css,html)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=vorpal56&show_icons=true&hide=prs,issues,contribs&count_private=true&custom_title=Github%20Stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=vorpal56&show_icons=true&count_private=true&custom_title=Github%20Stats)
 
 </details>
