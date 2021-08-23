@@ -6,6 +6,10 @@ body {
   font-size: 14px;
 }
 
+li {
+  margin-bottom: 1px;
+}
+
 .property {
   font-weight: bold;
 }
@@ -58,6 +62,10 @@ body {
   background-color: rgba(235, 238, 249, 1);
   // background-color: #39404a;
   background-color: #2d333b;
+}
+
+.selected {
+  outline-style: solid;  
 }
 
 .collapser {
